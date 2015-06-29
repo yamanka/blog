@@ -1,18 +1,18 @@
 ---
 layout: post
-title: ÎÒÊÇYamanka
+title: æˆ‘æ˜¯Yamanka
 comments: true
-summary:ÎÒµÄµÚÒ»Æª²©¿Í
+summary:æˆ‘çš„ç¬¬ä¸€ç¯‡åšå®¢
 gamla_disqus_satte: true
 tags: [blogging]
 ---
 
 <div class="message">
-ÕâÊÇÎÒµÄµÚÒ»Æª²©¿Í
+è¿™æ˜¯æˆ‘çš„ç¬¬ä¸€ç¯‡åšå®¢
 </div>
 
-ĞŞ¸Ä±ğÈËµÄÄ£°åºÃÍ´¿à
+ä¿®æ”¹åˆ«äººçš„æ¨¡æ¿å¥½ç—›è‹¦
 
-ÕâÊÇÎÒµÄĞÂÀËÎ¢²©£¬»¶Ó­»¥·Û
+è¿™æ˜¯æˆ‘çš„æ–°æµªå¾®åšï¼Œæ¬¢è¿äº’ç²‰
 [http://weibo.com/yamanka]
 (http://weibo.com/yamanka)
