@@ -1,1 +1,5 @@
-# mygithubpage
+# Blog
+
+My blog. Jekyll-based.
+
+
