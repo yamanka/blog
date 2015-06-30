@@ -27,7 +27,7 @@ title:               Yamanka
 tagline:             Keep Thinking
 url:                 "http://weibo.com/yamanka"
 paginate:            4
-baseurl:             "/"
+baseurl:             "/index"
 
 # Assets
 #
