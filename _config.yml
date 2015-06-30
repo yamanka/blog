@@ -24,7 +24,7 @@ image_base:          /public/images/
 
 # Setup
 title:               Yamanka
-tagline:             Sapere aude!
+tagline:             Keep Thinking
 url:                 "http://weibo.com/yamanka"
 paginate:            4
 baseurl:             "/"
