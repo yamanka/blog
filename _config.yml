@@ -23,11 +23,11 @@ image_base:          /public/images/
 #fb_appid:           337414769782635
 
 # Setup
-title:               Vitaly Repin
+title:               Yamanka
 tagline:             Sapere aude!
-url:                 "http://vrepin.org"
+url:                 "http://weibo.com/yamanka"
 paginate:            4
-baseurl:             "/vr"
+baseurl:             "/"
 
 # Assets
 #
@@ -38,22 +38,22 @@ sass:
 
 # About/contact
 author:
-  name:              Vitaly Repin
-  url:               https://twitter.com/vitalyrepin
-  email:             vitaly_repin@fsfe.org
+  name:              Yamanka
+  url:              http://weibo.com/yamanka
+  email:             yamanka@outlook.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/vitalyrepin/vrepinblog
+  repo:              https://github.com/yamanka/mygithubpage/tree/gh-pages
 
 # Google sitemap generation
 gems:
   - jekyll-sitemap
 
 pages_list:
-  About: '/vr/about/'
-  Hobby projects: '/vr/hobbies/'
-  Tags: '/vr/tags/'
-  Feed: '/vr/atom.xml'
+  About: '/about/'
+  Hobby projects: '/hobbies/'
+  Tags: '/tags/'
+  Feed: '/atom.xml'
 
