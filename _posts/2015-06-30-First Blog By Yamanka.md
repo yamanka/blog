@@ -7,9 +7,7 @@ gamla_disqus_satte: true
 tags: [blogging]
 ---
 
-<div class="message">
 这是我的第一篇博客
-</div>
 
 修改别人的模板好痛苦
 
