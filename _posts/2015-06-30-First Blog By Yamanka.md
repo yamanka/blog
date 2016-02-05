@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我是Yamanka
+title: First Blog By Yamanka
 comments: true
 summary:我的第一篇博客
 gamla_disqus_satte: true
