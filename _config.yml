@@ -4,7 +4,7 @@
 permalink: "/:title"
 # relative_permalinks: true
 
-highlighter: pygments
+highlighter: rouge
 
 timezone: Europe/Helsinki
 
